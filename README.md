@@ -1,4 +1,7 @@
-# test coverage for  [md5-file (v3.1.1)](https://github.com/roryrjb/md5-file#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-md5-file.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-md5-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-md5-file.svg)](https://travis-ci.org/npmtest/node-npmtest-md5-file)
+# npmtest-md5-file
+
+#### test coverage for  [md5-file (v3.1.1)](https://github.com/roryrjb/md5-file#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-md5-file.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-md5-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-md5-file.svg)](https://travis-ci.org/npmtest/node-npmtest-md5-file)
+
 #### return an md5sum of a given file
 
 [![NPM](https://nodei.co/npm/md5-file.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/md5-file)
